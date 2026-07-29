@@ -1,0 +1,22 @@
+@import "tailwindcss";
+
+@layer utilities {
+  .bg-medical-primary {
+    background-color: #0A8F6A;
+  }
+  .bg-medical-primary-hover:hover {
+    background-color: #087a5a;
+  }
+  .text-medical-primary {
+    color: #0A8F6A;
+  }
+  .border-medical-primary {
+    border-color: #0A8F6A;
+  }
+  .bg-medical-light {
+    background-color: #eefbf6;
+  }
+  .shadow-medical {
+    box-shadow: 0 10px 25px -5px rgba(10, 143, 106, 0.25);
+  }
+}

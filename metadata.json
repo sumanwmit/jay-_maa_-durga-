@@ -1,0 +1,6 @@
+{
+  "name": "Jay Maa Durga Medical Hall",
+  "description": "Leading pharmacy and healthcare store in Jehanabad, Bihar offering genuine medicines, medical equipment, baby care, surgical items, and WhatsApp medicine ordering.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

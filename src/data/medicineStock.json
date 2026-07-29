@@ -1,0 +1,200 @@
+[
+  {
+    "id": "MED-101",
+    "name": "Paracetamol 650mg (Dolo / Calpol)",
+    "brand": "Micro Labs / GSK",
+    "category": "Prescription / OTC",
+    "mrp": 32.50,
+    "availableQty": 150,
+    "expiry": "2027-08",
+    "status": "Available",
+    "description": "Antipyretic and analgesic for fever and pain relief."
+  },
+  {
+    "id": "MED-102",
+    "name": "Azithromycin 500mg (Azee / Azithral)",
+    "brand": "Cipla / Alembic",
+    "category": "Prescription Antibiotic",
+    "mrp": 118.00,
+    "availableQty": 42,
+    "expiry": "2027-04",
+    "status": "Available",
+    "description": "Broad-spectrum antibiotic for respiratory and throat infections."
+  },
+  {
+    "id": "MED-103",
+    "name": "Pantoprazole 40mg + Domperidone (Pan-D)",
+    "brand": "Alkem Laboratories",
+    "category": "Prescription Medicines",
+    "mrp": 199.00,
+    "availableQty": 85,
+    "expiry": "2027-11",
+    "status": "Available",
+    "description": "Provides fast relief from acidity, heartburn, and GERD."
+  },
+  {
+    "id": "MED-104",
+    "name": "Human Mixtard 30/70 100IU/ml Injection",
+    "brand": "Novo Nordisk",
+    "category": "Diabetes & Cold Storage Care",
+    "mrp": 420.00,
+    "availableQty": 12,
+    "expiry": "2027-03",
+    "status": "Limited Stock",
+    "description": "Temperature-controlled insulin for blood sugar regulation."
+  },
+  {
+    "id": "MED-105",
+    "name": "Telmisartan 40mg + Amlodipine 5mg (Telmikind-AM)",
+    "brand": "Mankind Pharma",
+    "category": "Cardiac & BP Care",
+    "mrp": 88.00,
+    "availableQty": 60,
+    "expiry": "2027-10",
+    "status": "Available",
+    "description": "Antihypertensive medication for high blood pressure control."
+  },
+  {
+    "id": "MED-106",
+    "name": "Omron Hem-7120 Fully Automatic Digital BP Monitor",
+    "brand": "Omron Healthcare",
+    "category": "Health Devices",
+    "mrp": 2450.00,
+    "availableQty": 8,
+    "expiry": "N/A",
+    "status": "Available",
+    "description": "Accurate home blood pressure monitoring device with Intellisense."
+  },
+  {
+    "id": "MED-107",
+    "name": "Accu-Chek Active Blood Glucose Monitor Kit + 10 Strips",
+    "brand": "Roche Diabetes Care",
+    "category": "Health Devices",
+    "mrp": 1599.00,
+    "availableQty": 5,
+    "expiry": "2027-12",
+    "status": "Limited Stock",
+    "description": "Self-testing glucometer for instant blood sugar level check."
+  },
+  {
+    "id": "MED-108",
+    "name": "Lactogen 1 Infant Formula (400g Refill)",
+    "brand": "Nestlé",
+    "category": "Baby Care",
+    "mrp": 440.00,
+    "availableQty": 25,
+    "expiry": "2027-06",
+    "status": "Available",
+    "description": "Spray-dried infant formula for babies up to 6 months."
+  },
+  {
+    "id": "MED-109",
+    "name": "Cerelac Wheat Apple Baby Cereal (300g)",
+    "brand": "Nestlé",
+    "category": "Baby Care",
+    "mrp": 310.00,
+    "availableQty": 30,
+    "expiry": "2027-09",
+    "status": "Available",
+    "description": "Nutritious complementary baby food rich in iron and vitamins."
+  },
+  {
+    "id": "MED-110",
+    "name": "Pampers All-in-One Diaper Pants (Large Size 32s)",
+    "brand": "Procter & Gamble",
+    "category": "Baby Care",
+    "mrp": 699.00,
+    "availableQty": 18,
+    "expiry": "N/A",
+    "status": "Available",
+    "description": "Ultra-absorbent baby diapers with anti-rash lotion technology."
+  },
+  {
+    "id": "MED-111",
+    "name": "Volini Pain Relief Spray (100g)",
+    "brand": "Sun Pharma",
+    "category": "OTC & Pain Relief",
+    "mrp": 330.00,
+    "availableQty": 40,
+    "expiry": "2027-10",
+    "status": "Available",
+    "description": "Quick relief spray for joint pain, backache, and muscle cramps."
+  },
+  {
+    "id": "MED-112",
+    "name": "Betadine Antiseptic Solution 10% (100ml)",
+    "brand": "Win-Medicare",
+    "category": "Surgical & Wound Care",
+    "mrp": 145.00,
+    "availableQty": 35,
+    "expiry": "2027-05",
+    "status": "Available",
+    "description": "Povidone-Iodine solution for wound disinfection and surgical care."
+  },
+  {
+    "id": "MED-113",
+    "name": "Sterile Surgical Cotton Gauze Roll (500g)",
+    "brand": "Surgeine",
+    "category": "Surgical Supplies",
+    "mrp": 210.00,
+    "availableQty": 22,
+    "expiry": "2028-01",
+    "status": "Available",
+    "description": "100% absorbent surgical cotton for clinical and emergency dressing."
+  },
+  {
+    "id": "MED-114",
+    "name": "Flamingo Lumbar Sacral Belt (L Size)",
+    "brand": "Flamingo Healthcare",
+    "category": "Orthopedic Supports",
+    "mrp": 950.00,
+    "availableQty": 6,
+    "expiry": "N/A",
+    "status": "Available",
+    "description": "Ergonomic back support belt for lower back pain and spinal support."
+  },
+  {
+    "id": "MED-115",
+    "name": "Dabur Chyawanprash 1kg (Special Offer)",
+    "brand": "Dabur India",
+    "category": "Ayurvedic & Supplements",
+    "mrp": 395.00,
+    "availableQty": 28,
+    "expiry": "2027-11",
+    "status": "Available",
+    "description": "Time-tested Ayurvedic immunity booster enriched with Amla & herbs."
+  },
+  {
+    "id": "MED-116",
+    "name": "Rabeprazole 20mg + Levosulpiride 75mg (Rabeloc Plus)",
+    "brand": "Cadila Pharmaceuticals",
+    "category": "Prescription Medicines",
+    "mrp": 215.00,
+    "availableQty": 0,
+    "expiry": "2027-02",
+    "status": "Out of Stock",
+    "description": "Sustained-release capsule for severe acid peptic disorders."
+  },
+  {
+    "id": "MED-117",
+    "name": "Compressor Nebulizer Machine for Asthma Care",
+    "brand": "Dr. Trust",
+    "category": "Health Devices",
+    "mrp": 1850.00,
+    "availableQty": 4,
+    "expiry": "N/A",
+    "status": "Limited Stock",
+    "description": "Reliable aerosol therapy nebulizer for children and adults."
+  },
+  {
+    "id": "MED-118",
+    "name": "Electral ORS Powder (21.8g Sachet Pack of 10)",
+    "brand": "FDC Limited",
+    "category": "OTC & Hydration",
+    "mrp": 220.00,
+    "availableQty": 100,
+    "expiry": "2027-12",
+    "status": "Available",
+    "description": "WHO-recommended oral rehydration salts for dehydration recovery."
+  }
+]
