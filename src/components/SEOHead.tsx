@@ -16,7 +16,7 @@ export const SEOHead: React.FC<SEOHeadProps> = ({
   type = "website"
 }) => {
   const location = useLocation();
-  const currentUrl = `https://jaymaadurgamedical.com${location.pathname}`;
+  const currentUrl = `https://jay-maa-durga.vercel.app${location.pathname}`;
 
   useEffect(() => {
     // Dynamic document title
@@ -69,8 +69,8 @@ export const SEOHead: React.FC<SEOHeadProps> = ({
       "name": "Jay Maa Durga Medical Hall",
       "alternateName": "Jay Maa Durga Chemist & Druggist",
       "image": "https://images.unsplash.com/photo-1576602976047-174e57a47881?auto=format&fit=crop&w=1200&q=80",
-      "@id": "https://jaymaadurgamedical.com/#pharmacy",
-      "url": "https://jaymaadurgamedical.com",
+      "@id": "https://jay-maa-durga.vercel.app/#pharmacy",
+      "url": "https://jay-maa-durga.vercel.app",
       "telephone": "+919431425755",
       "priceRange": "₹",
       "address": {
