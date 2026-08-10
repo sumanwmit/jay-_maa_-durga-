@@ -292,7 +292,8 @@ export const Footer: React.FC = () => {
 
           <p id="developer-branding-text" className="flex items-center gap-1">
             <span></span>
-            <a href="#" className="wmit-popup-trigger hover:text-white underline transition-colors" target="_blank" rel="noopener noreferrer">Developed by WMIT</a>
+            <a href="#" className="wmit-popup-trigger hover:text-white underline transition-colors" target="_blank" rel="noopener noreferrer"><a href="#" className="wmit-popup-trigger hover:text-white underline transition-colors" target="_blank" rel="noopener noreferrer">Developed by WMIT</a>
+
 
           </p>
         </div>
